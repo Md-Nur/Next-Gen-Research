@@ -1,0 +1,40 @@
+
+==========================================
+ Executing Baselines for: SOLAR SUBSYSTEM
+==========================================
+
+📌 Model: LinearRegression
+  Plant A -> Mean R²: 0.9555 | Mean MAPE: 4.86%
+  Plant B -> Mean R²: 0.9555 | Mean MAPE: 4.86%
+
+📌 Model: RandomForest
+  Plant A -> Mean R²: 0.9424 | Mean MAPE: 4.59%
+  Plant B -> Mean R²: 0.9390 | Mean MAPE: 4.66%
+
+📌 Model: XGBoost
+  Plant A -> Mean R²: 0.9404 | Mean MAPE: 4.54%
+  Plant B -> Mean R²: 0.9404 | Mean MAPE: 4.54%
+
+📌 Model: ANN
+  Plant A -> Mean R²: 0.8882 | Mean MAPE: 7.05%
+  Plant B -> Mean R²: 0.6795 | Mean MAPE: 10.49%
+
+==========================================
+ Executing Baselines for: BIOGAS SUBSYSTEM
+==========================================
+
+📌 Model: LinearRegression
+  Plant A -> Mean R²: -0.3666 | Mean MAPE: 8.35%
+  Plant B -> Mean R²: -0.5013 | Mean MAPE: 8.06%
+
+📌 Model: RandomForest
+  Plant A -> Mean R²: -0.5990 | Mean MAPE: 9.28%
+  Plant B -> Mean R²: -1.4478 | Mean MAPE: 9.69%
+
+📌 Model: XGBoost
+  Plant A -> Mean R²: -0.8750 | Mean MAPE: 9.81%
+  Plant B -> Mean R²: -1.5220 | Mean MAPE: 9.99%
+
+📌 Model: ANN
+  Plant A -> Mean R²: -0.3160 | Mean MAPE: 8.72%
+  Plant B -> Mean R²: -1.3880 | Mean MAPE: 9.24%

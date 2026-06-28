@@ -1,0 +1,13 @@
+[project]
+name = "next-gen-research"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=3.0.3",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.0",
+    "torch>=2.12.1",
+    "xgboost>=3.3.0",
+]
