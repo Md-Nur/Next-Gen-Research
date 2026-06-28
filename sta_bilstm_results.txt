@@ -1,0 +1,10 @@
+
+==========================================
+ Training STA-BiLSTM for: PLANTA_E_SOLAR
+==========================================
+🚀 Final Result for PlantA_E_solar -> Mean R²: 0.3505 | Mean MAPE: 20.61%
+
+==========================================
+ Training STA-BiLSTM for: PLANTB_E_SOLAR
+==========================================
+🚀 Final Result for PlantB_E_solar -> Mean R²: 0.2475 | Mean MAPE: 22.25%
